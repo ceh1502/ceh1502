@@ -4,9 +4,9 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceh1502&layout=compact&theme=transparent" />
 
 </p>
-<div align="center">   
+<div align="center">    
   <hr>
-  <h3>안녕하세요. 항상 발전하고 싶은 개발자 이건입니다!</h3>
+  <h3>운동하는 개발자, 개발하는 운동가</h3>
   <p>한양대학교 정보시스템학과</p>
   STECH | Lead Backend Developer</p>
  <br>
